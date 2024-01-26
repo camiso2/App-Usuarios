@@ -1,4 +1,4 @@
-## Proyecto Personal REACT :: Panel de Admnitración Para Usuarios
+## Proyecto Personal REACT :: Panel de Administración Para Usuarios
 
 
 Sistema desarrollado  
@@ -8,7 +8,7 @@ El sistema creado es un API que consume recursos de una base de datos relacional
 ## <a href="https://youtu.be/aSTMgMif2ZI" target="_blank">DEMO</a>
 
 
-Utilidades REACT :: Panel de Admnitración Para Usuarios
+Utilidades REACT :: Panel de Administración Para Usuarios
 
 * Lee todos los usuarios de una base de datos.
 * Eliminación de usuarios.
