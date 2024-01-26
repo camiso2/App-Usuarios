@@ -36,9 +36,10 @@ El sistema creado es un API que consume recursos de una base de datos relacional
 
 * Tiempo de desarrollo 48 horas
 
-Version JDK JAVA : 17
+<b>Version JDK JAVA </b>: 17
 
-Desarrollado
+<b>Desarrollado</b>
+
 * Jaiver Andrés Ocampo Oviedo
 * Full Stack Developer
 * Contacto : +57 3174885954
