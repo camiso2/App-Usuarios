@@ -23,7 +23,7 @@ El sistema creado es un API que consume recursos de una base de datos relacional
 
 
 <b>TECNOLOGÍAS </b>
-* Backend-end  : SprintBoot, maven, JPA, MySQL, spring devTools, JWT.
+* Backend-end  : SprintBoot 3, Maven, JPA, MySQL, spring devTools, JWT.
 * Front-end : JS->React, Vite, Bootstrap5, Redux
   
 <b>LIBRERIAS EXTERNAS</b>
