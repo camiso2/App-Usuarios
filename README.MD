@@ -1,11 +1,11 @@
 ## Proyecto Personal
-* SPRINGBOOT :: API Usuarios
-* REACT :: Panel de Administración Para Usuarios
+* <b>SPRINGBOOT :: </b>API Usuarios
+* <b>REACT      :: </b>Panel de Administración Para Usuarios
 
 
-Sistema Desarrollado  
+<b>SISTEMA DESARROLLADO</b> 
 
-El sistema creado es un API que consume recursos de una base de datos relacional con el uso de SprintBoot como back-end y JPA para las consultas. React es utilizado como Front-end
+El sistema creado es un API que consume recursos de una base de datos relacional con el uso de SprintBoot como back-end JPA para las consultas. Front-end -> React 
 
 ## <a href="https://youtu.be/aSTMgMif2ZI" target="_blank">DEMO</a>
 
