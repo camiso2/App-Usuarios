@@ -22,11 +22,11 @@ Utilidades SPRINGBOOT / REACT :: Panel de Administración de usuarios
 * Estadisticas.
 * JWT.
 
-TECNOLOGÍAS 
+<b>TECNOLOGÍAS </b>
 * Backend-end  : SprintBoot, maven, JPA, MySQL, spring devTools
 * Front-end : JS->React, Vite, Bootstrap5, Redux
   
-LIBRERIAS EXTERNAS
+<b>LIBRERIAS EXTERNAS</b>
 <p align="left">
 * <a href="https://sweetalert2.github.io/">Sweet Alert2</a>
 * <a href="https://vitejs.dev/guide/">Vite</a>
