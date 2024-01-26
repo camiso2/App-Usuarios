@@ -20,6 +20,7 @@ Utilidades SPRINGBOOT / REACT :: Panel de Administración de usuarios
 * Edición de datos.
 * Ventanas Modales.
 * Estadisticas.
+* JWT.
 
 TECNOLOGÍAS 
 * Backend-end  : SprintBoot, maven, JPA, MySQL, spring devTools
