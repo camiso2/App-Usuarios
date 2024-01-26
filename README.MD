@@ -9,7 +9,7 @@ El sistema creado es un API que consume recursos de una base de datos relacional
 
 ## <a href="https://youtu.be/aSTMgMif2ZI" target="_blank">DEMO</a>
 
-Utilidades SPRINGBOOT / REACT :: Panel de Administración de usuarios
+<b>Utilidades SPRINGBOOT / REACT</b> :: Panel de Administración de usuarios
 
 * Login.
 * Cataloga usuarios con privilegios administrativos.
