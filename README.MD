@@ -28,7 +28,7 @@ El sistema creado es un API que consume recursos de una base de datos relacional
   
 <b>LIBRERIAS EXTERNAS</b>
 <p align="left">
-* <a href="https://sweetalert2.github.io/">Sweet Alert2</a>
+* <button><a href="https://sweetalert2.github.io/">Sweet Alert2</a></button>
 * <a href="https://vitejs.dev/guide/">Vite</a>
 * <a href="https://getbootstrap.com/docs/5.3/getting-started/download/">Bootstrap</a>
 * <a href="https://redux-toolkit.js.org/">Redux</a>
