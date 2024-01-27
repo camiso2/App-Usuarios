@@ -27,13 +27,13 @@ El sistema creado es un API que consume recursos de una base de datos relacional
 * Front-end : JS->React, Vite, Bootstrap5, Redux
   
 <b>LIBRERIAS EXTERNAS</b>
-<p align="left">
-* <p><a href="https://sweetalert2.github.io/">Sweet Alert2</a></p>
-* <p><a href="https://vitejs.dev/guide/">Vite</a></p>
-* <p><a href="https://getbootstrap.com/docs/5.3/getting-started/download/">Bootstrap</a></p>
-* <p><a href="https://redux-toolkit.js.org/">Redux</a></p>
-* <p><a href="https://jwt.io/">JWT</a></p>
-</p>
+
+ <p>*<a href="https://sweetalert2.github.io/">Sweet Alert2</a></p>
+ <p>*<a href="https://vitejs.dev/guide/">Vite</a></p>
+ <p>*<a href="https://getbootstrap.com/docs/5.3/getting-started/download/">Bootstrap</a></p>
+ <p>*<a href="https://redux-toolkit.js.org/">Redux</a></p>
+ <p>*<a href="https://jwt.io/">JWT</a></p>
+
 
 * Tiempo de desarrollo 48 horas
 
