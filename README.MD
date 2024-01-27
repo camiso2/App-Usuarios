@@ -32,6 +32,7 @@ El sistema creado es un API que consume recursos de una base de datos relacional
 * <a href="https://vitejs.dev/guide/">Vite</a>
 * <a href="https://getbootstrap.com/docs/5.3/getting-started/download/">Bootstrap</a>
 * <a href="https://redux-toolkit.js.org/">Redux</a>
+* <a href="https://jwt.io/">JWT</a>
 </p>
 
 * Tiempo de desarrollo 48 horas
